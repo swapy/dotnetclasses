@@ -47,7 +47,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Exercise2.StringUtils</StartupObject>
+    <StartupObject>Exercise2.WorkingWithDelegates</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,7 @@
     <Compile Include="StringUtils.cs" />
     <Compile Include="TemperatureConversionExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkingWithDelegates.cs" />
     <Compile Include="WorkingWithMathLibraries.cs" />
   </ItemGroup>
   <ItemGroup>
